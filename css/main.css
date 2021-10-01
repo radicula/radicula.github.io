@@ -1,7 +1,7 @@
 body {
-    margin: 5% auto;
+    margin: auto 5%;
     font-family: 'serif';
-    width: 100%;
+    width: 95%;
 }
 
 div#header ul {
