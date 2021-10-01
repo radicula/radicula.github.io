@@ -1,6 +1,7 @@
 body {
     margin: 7% 5%;
-    font-family: 'serif';    
+    font-family: 'sans-serif'; 
+    background-color: gainsboro;
 }
 
 div#header ul {
@@ -8,7 +9,7 @@ div#header ul {
 }
 
 div#header {
-    font-size: 115%;
+    font-size: 125%;
     font-weight: bold;
 }
 
