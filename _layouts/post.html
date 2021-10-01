@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+<body>
+    
+<div id = "header">
+        post from {{ page.date | date_to_string }}
+</div>
+    
+<nav>
+    <ul>
+        <li><a href="/">home</a></li>
+        <li><a href="/about">about</a></li>
+    </ul>
+</nav>
+
+<div class="container">
+
+    {{ content }}
+
+</div>
+<footer>
+</footer>
+</body>
+</html>
