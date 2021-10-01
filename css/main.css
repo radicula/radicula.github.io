@@ -24,3 +24,7 @@ img {
     width: 100%;
     margin: auto;
 }
+
+.small {
+    max-width: 500px;
+}
