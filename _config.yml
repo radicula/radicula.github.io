@@ -1,4 +1,3 @@
 markdown: kramdown
-permalink: /posts/:year/:month/:day/:title
 kramdown:
     auto_ids: true
