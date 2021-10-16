@@ -2,6 +2,7 @@
 layout: default
 title: black bean soup
 date: 2021-10-03
+categories: recipes
 ---
 
 this is maybe 90% of everything I have eaten in the past 3 years. this is mostly for my own easy reference (updated 2021-10-04)
