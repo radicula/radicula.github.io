@@ -1,0 +1,12 @@
+---
+layout: default
+title: "movies (and maybe tv idk)"
+---
+
+i have very good taste !
+
+{% for post in site.categories.movies %}
+
+- {{ post.date | date_to_string }} - [{{ post.title }}]({{ post.url }})
+
+{% endfor %}
