@@ -6,8 +6,7 @@ title: welcome
 hello! 
 
 - [some recipes](/recipes)
-- [movie reviews (coming soon)]
-- [book reviews (coming soon)]
+- [general thoughts on some media i've consumed](/reviews)
 
 web log:
 {% for post in site.categories.weblog %}
