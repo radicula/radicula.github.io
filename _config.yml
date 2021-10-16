@@ -1,4 +1,12 @@
-collections: posts recipes movies books
+collections: 
+    posts:
+        output: true
+    recipes:
+         output: true
+    movies:
+         output: true
+    books:
+         output: true
 markdown: kramdown
 kramdown:
     auto_ids: true
