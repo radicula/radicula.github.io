@@ -1,13 +1,9 @@
 ---
-layout: default
+layout: post
 title: black bean soup
 date: 2021-10-03
 categories: recipes
 ---
-
-this is maybe 90% of everything I have eaten in the past 3 years. this is mostly for my own easy reference (updated 2021-10-04)
-
-## black bean soup
 
 my mom's soup! one of the only things I was specifically and specially taught to cook; a comfort on any day. do not open a can of beans and then forget about it on the counter for three days
 
