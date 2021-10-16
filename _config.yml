@@ -1,5 +1,5 @@
 collections: 
-    posts:
+    weblog:
         output: true
     recipes:
          output: true
