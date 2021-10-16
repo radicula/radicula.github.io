@@ -10,6 +10,6 @@ hello!
 - [book reviews (coming soon)]
 
 web log:
-{% for post in site.posts %}
+{% for post in site.categories.weblog %}
 * {{ post.date | date_to_string }} - [{{ post.title }}]({{ post.url }})
 {% endfor %}
