@@ -35,7 +35,7 @@ I hope they enjoy them and do not suffer from any radiation poisoning!
 Another side of the road find: two plates in this lovely pale blue ([Caribe Blue](https://www.ebay.com/itm/392847356209)). They have an incredible weight to them: exactly the type of plate you'd get a greasy spoon local diner. 
 
 Anyway, and you'll notice that this will be a theme throughout this entire post, I broke one of them. Instead of shattering like normal china, it snapped cleanly in half -- easy cleanup, no dangerous shards.
-This is obviously an incredibly practical feature to have for soemthing used at a restaurant, and the combination of the weight and the practicality of them makes me love these things.
+This is obviously an incredibly practical feature to have for something used at a restaurant, and the combination of the weight and the practicality of them makes me love these things.
 I have some mugs that have that kind of diner-weight to them, too, and I almost always find myself reaching for those over the more delicate ceramic. 
 It's kind of like having a fork or a spoon that has a good weight to it, I think. Very satisfying.
 
@@ -60,7 +60,7 @@ I started carrying this mug around campus with me -- I've always been horrible a
 And, of course, I broke it. I think at first it was just the handle, but then maybe the rest of it, too? I don't really remember. Anyway, some combination of friends gifting new king of Sweden mugs to me + finding _more_ at that goodwill resulted in me having a king of Sweden mug for most of college. 
 By the time I graduated I didn't have any unbroken ones left, but it was notable (if odd) part of my life for a few years.
 
-Yeah so inevitably I just found two on the side of the road in my neighborhood several years later. And now I have more king of sweden mugs! One time I was drinking from one during a work call and my coworker said he'd had a similar experience and also has a king of Sweden mug, and was really surprised to see that someone else had one, too. 
+Yeah so inevitably I just found two on the side of the road in my neighborhood several years later. And now I have more king of Sweden mugs! One time I was drinking from one during a work call and my coworker said he'd had a similar experience and also has a king of Sweden mug, and was really surprised to see that someone else had one, too. 
 This mug will follow me until I die, I think. Anyway, the theory is that these mugs were part of a Christmas gift package (with Gevalia coffee) as sometimes happens in countries with monarchies. This might explain how they're simultaneously rare and abundant.
 
 Some other mugs in my collection:
