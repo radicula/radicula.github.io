@@ -8,7 +8,7 @@ collections:
     books:
          output: true
          
-google_analytics: G-1J8DRB0K1K
+google_analytics: UA-216187335-1
 
 markdown: kramdown
 kramdown:
