@@ -25,7 +25,7 @@ This was the series that I was most scared to re-read, because I loved them in h
 I have some complicated thoughts about how it depicts the Dogs as a police force -- violence seems to be their primary form of justice, but also there seems to be internal concern about this; 
 Beka is regularly disgusted by Dogs that make assumptions about Lower City folk and inflict violence on them by default. That said, she also "hobbles" a lot of people with her baton without thinking much of it.
 
-Anyway, I tried not to think to hard about this in my re-read and just tried to enjoy the story and nostalgia as much as I could. I still really like Beka's books.
+Anyway, I tried not to think too hard about this in my re-read and just tried to enjoy the story and nostalgia as much as I could. I still really like Beka's books.
 I like that they're fundamentally just her telling her stories and that there isn't a larger overarching plot across the trilogy apart from her character development. 
 Each story is sprawling in its own way but ends tidily (which I like).
 
@@ -41,7 +41,7 @@ I also just like the pacing and tone of the whole book. It feels good to read! T
 
 I was very nervous to read this book -- I've never been a huge fan of Numair, and I'm always nervous of direct prequels. Having read it, I feel pretty ... meh about it. 
 Not negative, sure, but also not positive. It feels a little like TP is trying to what she did with Alanna and Kel where she showed an afab person growing up and very frankly portraying puberty, but for an amab person.
-I think that's fine, but I'm at a point in my life where reading about 13 year olds going through puberty isn't really interesting to me (outside of nostalgic childhood material). 
+I think that's well and good, but I'm at a point in my life where reading about 13 year olds going through puberty isn't really interesting to me (outside of nostalgic childhood material). 
 I also didn't feel like the book had any real plot. It was just kind of Arram being told what to do; Alanna and Kel have similar novels, where they are basically just kids in school, but both Alanna and Kel do a lot of individual goal setting and have achievements that mark the end of each book. 
 Arram doesn't really have that; he's just being dragged around by his instructors. In some ways it's nice to have a narrative where (by and large) adults are actually supportive and helpful, but it was also kind of boring to read.
 
@@ -53,7 +53,7 @@ That's more a critique of the publishing industry than the actual book, though.
 
 ### Iron Widow
 
-Very fun! I like that the characters are angry and that morality just doesn't really apply. I like the poly relationship. I wish bsands would figure this out with Kaladin and Shallan and Adolin.
+Very fun! I like that the characters are angry and that morality just doesn't really apply. I like the poly relationship. Only relevant because this book was rec'd to me when I was complaining about this: I wish bsands would figure this out with Kaladin and Shallan and Adolin.
 
 ### the sequel series to Percy Jackson (Heroes of Olympus)
 
@@ -77,7 +77,7 @@ Great movie. 10/10, will watch again (and again, every year)
 ### Tick Tick Boom
 
 I didn't have much context for this because I'm not very aware of musicals, despite generally enjoying them. I thought that this was a fun movie, except for the parts that made me cry, which weren't fun, but were good in their own way.
-I, like every other person in the world, like Andrew Garfield.
+I, like every other person in the world, enjoy Andrew Garfield.
 
 ### Encanto
 
@@ -103,8 +103,8 @@ It's fine! I feel the same as I do about all the other eps.
 ### Hawkeye (the series)
 
 Okay, so I _loved_ the classic David Aja comics. Pizza dog, all that. I read them in high school and still have the copies I bought then (which, if you know how many times I've moved since then, will mean a lot to you). 
-Seeing scenes in the show that were pulled almost directly from the comics made me very happy. (Side note: apparently David Aja hasn't even seen the show, which is wild to me. If I were making a hawkeye show I would have paid good money to get David Aja involved).
-I also like Kate and Clint's dynamic and Yelena is (as ever) wonderful. Looking forward to getting more content from Kate and Yelena, for sure.
+Seeing scenes in the show that were pulled almost directly from the comics made me very happy. (Side note: apparently David Aja hasn't even seen the show, which is wild to me. If I were making a hawkeye show I would have paid good money to get David Aja involved.)
+I also like Kate and Clint's dynamic and Yelena is (as ever) wonderful. Looking forward to getting more content about Kate and Yelena, for sure.
 
 Disclaimer: I don't pay for MCU content and cannot recommend that you do, either. Didney doesn't need any more cash.
 
@@ -120,7 +120,7 @@ For the record, btw, I attempted the show despite knowing that I don't like the 
 
 ### Witcher season 2
 
-I skimmed this and only watched Joey Batey's scenes. I don't know what happened but the mouse part was kind of funny.
+I skimmed this and only watched Joey Batey's scenes. I would like to watch a show that is just Jaskier and Geralt and Ciri and Yennefer doing hijinks (no murder).
 
 ### Star Trek: Discovery season 4
 
