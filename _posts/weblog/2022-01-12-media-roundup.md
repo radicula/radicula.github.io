@@ -1,7 +1,7 @@
 ---
 layout: post
 title: media roundup (holidays)
-date: 2022-01-09
+date: 2022-01-12
 categories: weblog
 ---
 
@@ -186,4 +186,4 @@ When I'm reading sometimes I like to turn on ambiance sounds and/or music, and [
 
 I watch a decent amount of youtube content in my day to day, including a lot of arts and crafts adjacent things. A creator whose videos I've really been enjoying lately (although I discovered them a while ago) is [lemongacha](https://www.youtube.com/c/lemongacha). highly recommend if you like chill ramble-y (but also well edited) art content.
 
-Okay, this roundup is getting pretty out of hand so I'm going to stop there! Here's to another year of writing up my own opinions for only me to see them.
+Okay, this roundup is getting pretty out of hand so I'm going to stop there! Here's to another year of writing up my own opinions for only me to see them. Also, an update re: my hanbok project is coming soon.
