@@ -10,7 +10,7 @@ I have friends who also want to consume queer media but are less "I will read ev
 
 ### _Maurice_ (E. M. Forster)
 
-I think I've maybe talked about it on this site before, but _Maurice_ fundamentally frames my experience of pretty much all other happy queer fiction so I wanted to mention it here, again. E. M. Forster published _Maurice_ posthumously and the afterward in the version I read was heartbreaking:
+I think I've maybe talked about it on this site before, but _Maurice_ fundamentally frames my experience of pretty much all other happy queer fiction so I wanted to mention it here, again. E. M. Forster published _Maurice_ posthumously and the afterword in the version I read was heartbreaking:
 deeply cynical, reflecting on how, in sixty years, while the actual novel _Maurice_ was closer to being published than in the 1910s, the UK was no closer to actually being accepting of men loving other men. 
 E. M. Forster is more famous for his societal critique than his queer romance: whenever I read silly, fundamentally non-critical queer novels I want to (and do) criticize them for their lack of awareness of class and race, but also: do we not deserve to read and to write happy queer drivel? We have had to bear so many years of censorship -- should we not be allowed to make some things that are bad just for the sake of making them?
 
@@ -57,7 +57,7 @@ A fun period heist novel with a mlm romance. Read if you like that kind of thing
 I liked the romance in _Boyfriend Material_. I liked that Hall skipped "our relationship is based on a lie" and went directly into "mutually beneficial fake dating" -- personally, not a fan of the kind of miscommunication tropes that the former usually leads to. I also liked that the characters (both of them!) had to grow and learn to deal with their own shit in order to make the relationship work; going in, you expect it to be more "one messy boy and one perfect boy" but they're
 both messy in their own ways. I thought it felt very earnest and pretty real; the actual relationship itself didn't feel super contrived even if the motivation for the fake dating was.
 
-That said, the way that Hall pokes fun at rich (white) people while _all of the main characters_ **are** rich (white) people is ... really something. The novel is full of this snarky commentary about the "aristocracy" and wealth but also, even the main character himself is rich -- just rich in a "my parents are rock stars" kind of way rather than a "my parents are literally nobility" kind of way. It's a little eerie. But, you know -- E. M. Forster got to do social criticism but not silly, happy, gay romance, so now I guess Alexis Hall can do silly, happy, gay romance with social criticism to balance the scales. 
+That said, the way that Hall pokes fun at rich (white) people while _all of the main characters_ **are** rich (white) people is ... really something. The novel is full of this snarky commentary about the "aristocracy" and wealth but also, even the main character himself is rich -- just rich in a "my parents are rock stars" kind of way rather than a "my parents are literally nobility" kind of way. It's a little eerie. But, you know -- E. M. Forster got to do social criticism but not silly, happy, gay romance, so now I guess Alexis Hall can do silly, happy, gay romance without social criticism to balance the scales. 
 Read if you like silly, happy, gay YA romance with a side of angst, and can restrain yourself from screaming "get a fucking therapist!!!" every three pages. 
 
 ### _Red, White, and Royal Blue_ (Casey McQuiston)
@@ -103,7 +103,7 @@ _All Systems Red_ is the start of the _MurderBot Diaries_, which have swept acro
 
 Very YA fantasy: monarchy, evil queen, blood magic, fae, collecting the dragonballs in order to help the Resistance, etc. There's a central mlm romance and a trans character, although she's not important until the very end -- I think probably she'll be more of a main character in the sequels. There is also some (unexpected), abstract, non-graphic monsterfucking that passes the Harkness test. I didn't like, love it, but if you were looking for some dark YA fantasy with some queer rep this would fit that bill.
 
-### Ongoing reads (things I am partway through and/or have on hold and expect to read soon)
+### Ongoing reads (things I am partway through and/or have on hold at the library and expect to read soon)
 
 - She Who Became the Sun
 - Raven Tower
