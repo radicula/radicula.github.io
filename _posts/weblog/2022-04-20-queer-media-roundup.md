@@ -8,7 +8,7 @@ categories: weblog
 I consume a lot of queer media because I am queer media. I also have a deep passion for giving book recs: is there anything more satisfying than recommending a book to someone and them loving it? I don't think so.
 I have friends who also want to consume queer media but are less "I will read everything very fast" than I am; I find it is my personal duty to read everything and give recs so that they only have to read the good stuff. So, here are my reviews of queer books I've read in the past month or so (in no particular order).
 
-### Maurice (E. M. Forster)
+### _Maurice_ (E. M. Forster)
 
 I think I've maybe talked about it on this site before, but _Maurice_ fundamentally frames my experience of pretty much all other happy queer fiction so I wanted to mention it here, again. E. M. Forster published _Maurice_ posthumously and the afterward in the version I read was heartbreaking:
 deeply cynical, reflecting on how, in sixty years, while the actual novel _Maurice_ was closer to being published than in the 1910s, the UK was no closer to actually being accepting of men loving other men. 
